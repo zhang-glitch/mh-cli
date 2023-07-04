@@ -1,0 +1,19 @@
+{
+  "name": "@mh-cli/core",
+  "version": "1.0.0",
+  "description": "mh cli core",
+  "author": "zhang-glitch <669638556@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  }
+}
