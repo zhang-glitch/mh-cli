@@ -1,6 +1,6 @@
 {
   "name": "@mh-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mh cli core",
   "author": "zhang-glitch <669638556@qq.com>",
   "homepage": "",
@@ -18,7 +18,7 @@
     "pp": "echo 'core'"
   },
   "dependencies": {
-    "axios": "^1.4.0",
-    "@mh-cli/utils": "^1.0.0"
+    "@mh-cli/utils": "^1.0.1",
+    "axios": "^1.4.0"
   }
 }
