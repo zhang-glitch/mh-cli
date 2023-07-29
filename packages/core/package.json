@@ -18,7 +18,7 @@
     "pp": "echo 'core'"
   },
   "dependencies": {
-    "@mh-cli/utils": "^1.0.5",
+    "@mh-cli/utils": "file:../utils",
     "axios": "^1.4.0"
   },
   "gitHead": "e8845a93804aa5a7e293f69c25fdbc326b69b142",
