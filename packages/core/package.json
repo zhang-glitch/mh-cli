@@ -18,10 +18,10 @@
     "pp": "echo 'core'"
   },
   "dependencies": {
-    "@mh-cli/utils": "file:../utils",
+    "@mh-cli/utils": "^1.0.5",
     "axios": "^1.4.0"
   },
-  "gitHead": "e8845a93804aa5a7e293f69c25fdbc326b69b142",
+  "gitHead": "09b8c0464dec246a2325edc3a623dd82e75bb822",
   "publishConfig": {
     "access": "public"
   }
