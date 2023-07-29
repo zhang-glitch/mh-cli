@@ -1,6 +1,6 @@
 {
   "name": "@mh-cli/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "mh cli core",
   "author": "zhang-glitch <669638556@qq.com>",
   "homepage": "",
@@ -21,5 +21,8 @@
     "@mh-cli/utils": "^1.0.1",
     "axios": "^1.4.0"
   },
-  "gitHead": "e8845a93804aa5a7e293f69c25fdbc326b69b142"
+  "gitHead": "e8845a93804aa5a7e293f69c25fdbc326b69b142",
+  "publishConfig": {
+    "access": "public"
+  }
 }
